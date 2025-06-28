@@ -20,7 +20,7 @@
 - Have general tool invocation capabilities, allowing users to flexibly build their own processes.
 - Provide a lightweight training framework for model pre - training. There's no need to install a large number of dependency packages. A single set of code supports pre - training on thousands of cards and single - card human preference alignment training, while achieving extreme performance optimization with an acceleration efficiency of nearly 90% under thousands of cards training.
 
-The open - source image product [**InternLM Large Language Model**]() provided by this project has InternLM2.5 - 1.8B - Chat and its related operating environment pre - installed, and also provides deployment templates. Come and refer to the usage guide to easily start your "out - of - the - box" efficient experience!
+The open - source image product [**InternLM Large Language Model**](https://marketplace.huaweicloud.com/intl/hidden/contents/a998b510-95d8-45cc-984b-8ee4fb8bd4b7) provided by this project has InternLM2.5 - 1.8B - Chat and its related operating environment pre - installed, and also provides deployment templates. Come and refer to the usage guide to easily start your "out - of - the - box" efficient experience!
 
 > **System requirements are as follows:**
 > - CPU: 4vCPUs or higher
